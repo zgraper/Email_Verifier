@@ -28,13 +28,13 @@ pip install pandas dnspython
 ## Usage
 
 1. **Clone the Repository**
-   ```bash
+```bash
 git clone https://github.com/yourusername/email-verifier-gui.git
 cd email-verifier-gui
 ```
 
 2. **Run the App**
-   ```bash
+```bash
 python email_verifier_gui.py
 ```
 
